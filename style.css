@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+}
+
+.title {
+  padding-top: 7%;
+}
+
+.contents {
+  padding-top: 10%;
+}
+
+.error {
+  color: red;
+}
+
+html {
+  background-color: #FFCC00;
+}
+
+.input-field input[type=radio]:focus + label{
+  color: #000;
+}
