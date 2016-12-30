@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipl*
 
 **Tipl** is a tip calculator PHP page.
 
